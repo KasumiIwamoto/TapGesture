@@ -6,6 +6,7 @@
 //  Copyright © 2016年 KasumiIwamoto. All rights reserved.
 //
 
+//test
 import UIKit
 
 class ViewController: UIViewController{
