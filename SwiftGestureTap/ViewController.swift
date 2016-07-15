@@ -8,7 +8,7 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController{
 
     @IBOutlet weak var myImageView: UIImageView!
     @IBAction func tapImageView(sender: UITapGestureRecognizer) {
